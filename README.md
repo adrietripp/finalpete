@@ -1,2 +1,1 @@
-# finalpete
-final assignment 
+# starter-pete-thinkful-portfolio
